@@ -9,6 +9,8 @@ namespace GitTest
     {
         public static void Main(string[] args)
         {
-        }
+			Console.WriteLine("FUCKING GIT!!!");
+			Console.ReadLine(); 
+}
     }
 }
